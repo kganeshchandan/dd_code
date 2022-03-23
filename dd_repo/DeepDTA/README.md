@@ -15,6 +15,5 @@ and do the following change in forward function of the classifer module.
 
 convert
 `dims = [self.input_dim_drug + self.input_dim_protein] + self.hidden_dims + [1]` to `dims = [self.input_dim_protein] + self.hidden_dims + [1]`
-
 and do the following change in forward function of the classifer module.
 `v_f = torch.cat((v_D, v_P), 1)` to `v_f = v_P`
