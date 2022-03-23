@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-
+# The code snippets used in this file have been taken directly from gnina/scripts/clustering.py (present in github repo)  used in GNINA study and slightly modified for our study.
+# Source => https://github.com/gnina/scripts/blob/master/clustering.py
+# Authored by David Koes et al.
 
 import json
 from Bio.PDB.PDBParser import PDBParser
