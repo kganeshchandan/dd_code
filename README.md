@@ -1,3 +1,4 @@
+# This codebase is a part of my research work, the work is not published yet and is under revieww right now.
 ## This repository contains all the models and the datasets/ methods used in this study in the following directories.
 * `DAVIS_SPLITS` - Contains the scripts used to create the folds for the davis dataset
 * `DeepDTA` - Describes the methods to reproduce the [DeepDTA](https://academic.oup.com/bioinformatics/article/34/17/i821/5093245) experiments
